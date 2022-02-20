@@ -1,0 +1,95 @@
+.body {
+    width: 600px;
+    height: auto;
+    margin: auto;
+    background-color: white;
+}
+
+
+
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 10%;
+width: 50%;
+}
+
+.box1{
+    width: 500px;
+    height: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    background-color: #E5E9E9;
+}
+
+.text1{
+    margin-left: 20%;
+    text-align: center;
+    margin-bottom: 20%;
+}
+
+
+.right{
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin: 0 0 0 15px;
+}
+
+.left{
+    float: left;
+    margin: 0 0 0 15px;
+}
+
+
+.box2{
+    width: 500px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    background-color: #E5E9E9;
+}
+
+.right1{
+    width: 30%;
+    height: 100%;
+    float: right;
+    margin: 0 0 0 15px;
+}
+
+.center1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+    .interior {
+        width: 550px;
+        height: auto;
+        margin: auto;
+        background-color: white;
+    }
+
+.mytext{
+    margin-left: 40%;
+}
+
+.watch{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Healthy{
+    width: 450px;
+    margin-left: 10%;
+    margin-right: auto;
+}
+
+
+    
